@@ -1,0 +1,8 @@
+.DataListContainer::-webkit-scrollbar {
+  display: none;
+}
+
+.DataListContainer {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
